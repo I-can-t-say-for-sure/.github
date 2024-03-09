@@ -13,3 +13,4 @@
 * 用户可以修改生成的旅游计划
 * 用户可以通过旅游助手得知美食、门票等与旅游相关的信息
 #### 思维导图
+![image](https://github.com/I-can-t-say-for-sure/.github/assets/118337163/81b2b0aa-fe9d-4853-a338-e6e1e0b22e18)
