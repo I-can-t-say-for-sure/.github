@@ -4,7 +4,7 @@
 | 姓名     | 学号     | github     |
 | -------- | -------- | -------- |
 | 吴策宇 | 2112190525 | https://github.com/sjxm0721 |
-| 段少钦 | 2112 | https://github.com/HABSBURGR |
+| 段少钦 | 2112190411 | https://github.com/HABSBURGR |
 | 金炜东 | 2112190530 | https://github.com/jwdgeek |
 #### 程序功能描述
 * 用户登录、登出、注册等基础功能
