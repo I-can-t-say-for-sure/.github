@@ -1,4 +1,4 @@
-#### 项目名称：晓山青-诗词分享、创作平台
+#### 项目名称：诗词赋-诗词分享、创作平台
 #### [小组github地址](https://github.com/I-can-t-say-for-sure)
 #### 小组成员、分工及Github主页：
 | 姓名     | 学号     | github     |
