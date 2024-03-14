@@ -16,4 +16,4 @@
 * 用户可以编辑自己的个人资料
 * 用户可以查看自己的浏览记录、收藏、评论
 #### 思维导图
-![image](https://sky-take-out-sjxm.oss-cn-hangzhou.aliyuncs.com/202403132008746.png)
+![image](https://sky-take-out-sjxm.oss-cn-hangzhou.aliyuncs.com/202403141957753.JPG)
